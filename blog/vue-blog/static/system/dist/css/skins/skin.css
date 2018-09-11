@@ -1,0 +1,136 @@
+/*皮肤*/
+.app-skin-black-header{background:#fff;}
+.app-skin-black-header .app-header .navbar-header a{background-color:#1c2b36;color:#ccc;}
+.app-skin-black-header .app-header .navbar-collapse{background-color:#1c2b36;color:#ccc;}
+.app-skin-black-header .app-header .navbar-collapse a{ color:#ccc;}
+.app-skin-black-header .app-header .navbar-collapse a:hover{ background-color:#16232d; color:#fff;}
+.app-skin-black-header .app-aside .aside-wrap{color:#666;}
+.app-skin-black-header .sidebar-menu .treeview-menu{background:#f6f6f6;}
+.app-skin-black-header .sidebar-menu .treeview-menu > li.active > a,.app-skin-black-header .sidebar-menu li:hover,.app-skin-black-header .sidebar-menu li:hover span,.app-skin-black-header .sidebar-menu li a:hover{background-color:#eee;}
+
+.app-skin-black-aside{background:#1c2b36;}
+.app-skin-black-aside .app-header .navbar-header a{background-color:#1c2b36;color:#ccc;}
+.app-skin-black-aside .app-header .navbar-collapse{background-color:#fff;color:#666;}
+.app-skin-black-aside .app-header .navbar-collapse a{ color:#666;}
+.app-skin-black-aside .app-header .navbar-collapse a:hover{ background-color:#efefef;}
+.app-skin-black-aside .app-aside .aside-wrap{color:#ccc;}
+.app-skin-black-aside .sidebar-menu .treeview-menu{background:#131e26;}
+.app-skin-black-aside .sidebar-menu li > a{color:#ccc;}
+.app-skin-black-aside .sidebar-menu .treeview-menu > li.active > a,.app-skin-black-aside .sidebar-menu li:hover,.app-skin-black-aside .sidebar-menu li:hover span,.app-skin-black-aside .sidebar-menu li a:hover{background-color:#16232d;}
+
+.app-skin-dark-header{background-color:#edf1f2;}
+.app-skin-dark-header .app-header .navbar-header a{background-color:#3a3f51;color:#ccc;}
+.app-skin-dark-header .app-header .navbar-collapse{background-color:#3a3f51;color:#ccc;}
+.app-skin-dark-header .app-header .navbar-collapse a{ color:#ccc;}
+.app-skin-dark-header .app-header .navbar-collapse a:hover{ background-color:#32374a; color:#fff;}
+.app-skin-dark-header .app-aside .aside-wrap{color:#666;}
+.app-skin-dark-header .sidebar-menu .treeview-menu{background:#e4eaec;}
+.app-skin-dark-header .sidebar-menu .treeview-menu > li.active > a,.app-skin-dark-header .sidebar-menu li:hover,.app-skin-dark-header .sidebar-menu li:hover span,.app-skin-dark-header .sidebar-menu li a:hover{background-color:#ddd;}
+
+.app-skin-dark-aside{background-color:#3a3f51;}
+.app-skin-dark-aside .app-header .navbar-header a{background-color:#3a3f51;color:#ccc;}
+.app-skin-dark-aside .app-header .navbar-collapse{background-color:#fff;color:#666;}
+.app-skin-dark-aside .app-header .navbar-collapse a{ color:#666;}
+.app-skin-dark-aside .app-header .navbar-collapse a:hover{ background-color:#efefef;}
+.app-skin-dark-aside .app-aside .aside-wrap{color:#ccc;}
+.app-skin-dark-aside .sidebar-menu li > a{color:#ccc;}
+.app-skin-dark-aside .sidebar-menu .treeview-menu{background:#2e3344;}
+.app-skin-dark-aside .sidebar-menu .treeview-menu > li.active > a,.app-skin-dark-aside .sidebar-menu li:hover,.app-skin-dark-aside .sidebar-menu li:hover span,.app-skin-dark-aside .sidebar-menu li a:hover{background-color:#32374a;}
+
+.app-skin-blue-header{background-color:#dde6e9;}
+.app-skin-blue-header .app-header .navbar-header a{background-color:#1199c4;color:#fff;}
+.app-skin-blue-header .app-header .navbar-collapse{background-color:#1199c4;color:#fff;}
+.app-skin-blue-header .app-header .navbar-collapse a{ color:#fff;}
+.app-skin-blue-header .app-header .navbar-collapse a:hover{ background-color:#17b2e2;}
+.app-skin-blue-header .app-aside .aside-wrap{color:#666;}
+.app-skin-blue-header .sidebar-menu .treeview-menu{background:#e4eaec;}
+.app-skin-blue-header .sidebar-menu .treeview-menu > li.active > a,.app-skin-blue-header .sidebar-menu li:hover,.app-skin-blue-header .sidebar-menu li:hover span,.app-skin-blue-header .sidebar-menu li a:hover{background-color:#ddd;}
+
+.app-skin-white-header{background-color:#1c2b36;}
+.app-skin-white-header .app-header .navbar-header a{background-color:#fff;color:#666;}
+.app-skin-white-header .app-header .navbar-collapse{background-color:#fff;color:#666;}
+.app-skin-white-header .app-header .navbar-collapse a{ color:#666;}
+.app-skin-white-header .app-header .navbar-collapse a:hover{ background-color:#efefef;}
+.app-skin-white-header .app-aside .aside-wrap{color:#ccc;}
+.app-skin-white-header .sidebar-menu li > a{color:#ccc;}
+.app-skin-white-header .sidebar-menu .treeview-menu{background:#131e26;}
+.app-skin-white-header .sidebar-menu .treeview-menu > li.active > a,.app-skin-white-header .sidebar-menu li:hover,.app-skin-white-header .sidebar-menu li:hover span,.app-skin-white-header .sidebar-menu li a:hover{background-color:#16232d;}
+
+.app-skin-purple-header{background-color:#3a3f51;}
+.app-skin-purple-header .app-header .navbar-header a{background-color:#7266ba;color:#fff;}
+.app-skin-purple-header .app-header .navbar-collapse{background-color:#7266ba;color:#fff;}
+.app-skin-purple-header .app-header .navbar-collapse a{ color:#fff;}
+.app-skin-purple-header .app-header .navbar-collapse a:hover{ background-color:#6658b8;}
+.app-skin-purple-header .app-aside .aside-wrap{color:#ccc;}
+.app-skin-purple-header .sidebar-menu li > a{color:#ccc;}
+.app-skin-purple-header .sidebar-menu .treeview-menu{background:#2e3344;}
+.app-skin-purple-header .sidebar-menu .treeview-menu > li.active > a,.app-skin-purple-header .sidebar-menu li:hover,.app-skin-purple-header .sidebar-menu li:hover span,.app-skin-purple-header .sidebar-menu li a:hover{background-color:#32374a;}
+
+.app-skin-purple{background-color:#3a3f51;}
+.app-skin-purple .app-header .navbar-header a{background-color:#7266ba;color:#fff;}
+.app-skin-purple .app-header .navbar-collapse{background-color:#fff;color:#666;}
+.app-skin-purple .app-header .navbar-collapse a{ color:#666;}
+.app-skin-purple .app-header .navbar-collapse a:hover{ background-color:#efefef;}
+.app-skin-purple .app-aside .aside-wrap{color:#ccc;}
+.app-skin-purple .sidebar-menu li > a{color:#ccc;}
+.app-skin-purple .sidebar-menu .treeview-menu{background:#2e3344;}
+.app-skin-purple .sidebar-menu .treeview-menu > li.active > a,.app-skin-purple .sidebar-menu li:hover,.app-skin-purple .sidebar-menu li:hover span,.app-skin-purple .sidebar-menu li a:hover{background-color:#32374a;}
+
+.app-skin-green-header{background-color:#3a3f51;}
+.app-skin-green-header .app-header .navbar-header a{background-color:#27c24c;color:#fff;}
+.app-skin-green-header .app-header .navbar-collapse{background-color:#27c24c;color:#fff;}
+.app-skin-green-header .app-header .navbar-collapse a{ color:#fff;}
+.app-skin-green-header .app-header .navbar-collapse a:hover{ background-color:#22b864;}
+.app-skin-green-header .app-aside .aside-wrap{color:#ccc;}
+.app-skin-green-header .sidebar-menu li > a{color:#ccc;}
+.app-skin-green-header .sidebar-menu .treeview-menu{background:#2e3344;}
+.app-skin-green-header .sidebar-menu .treeview-menu > li.active > a,.app-skin-green-header .sidebar-menu li:hover,.app-skin-green-header .sidebar-menu li:hover span,.app-skin-green-header .sidebar-menu li a:hover{background-color:#32374a;}
+
+.app-skin-green{background-color:#3a3f51;}
+.app-skin-green .app-header .navbar-header a{background-color:#27c24c;color:#fff;}
+.app-skin-green .app-header .navbar-collapse{background-color:#fff;color:#666;}
+.app-skin-green .app-header .navbar-collapse a{ color:#666;}
+.app-skin-green .app-header .navbar-collapse a:hover{ background-color:#efefef;}
+.app-skin-green .app-aside .aside-wrap{color:#ccc;}
+.app-skin-green .sidebar-menu li > a{color:#ccc;}
+.app-skin-green .sidebar-menu .treeview-menu{background:#2e3344;}
+.app-skin-green .sidebar-menu .treeview-menu > li.active > a,.app-skin-green .sidebar-menu li:hover,.app-skin-green .sidebar-menu li:hover span,.app-skin-green .sidebar-menu li a:hover{background-color:#32374a;}
+
+.app-skin-red-header{background-color:#fff;}
+.app-skin-red-header .app-header .navbar-header a{background-color:#dd4b39;color:#fff;}
+.app-skin-red-header .app-header .navbar-collapse{background-color:#dd4b39;color:#fff;}
+.app-skin-red-header .app-header .navbar-collapse a{ color:#fff;}
+.app-skin-red-header .app-header .navbar-collapse a:hover{ background-color:#d73925;}
+.app-skin-red-header .app-aside .aside-wrap{color:#666;}
+.app-skin-red-header .sidebar-menu .treeview-menu{background:#f6f6f6;}
+.app-skin-red-header .sidebar-menu .treeview-menu > li.active > a,.app-skin-red-header .sidebar-menu li:hover,.app-skin-red-header .sidebar-menu li:hover span,.app-skin-red-header .sidebar-menu li a:hover{background-color:#eee;}
+
+.app-skin-red{background-color:#3a3f51;}
+.app-skin-red .app-header .navbar-header a{background-color:#dd4b39;color:#fff;}
+.app-skin-red .app-header .navbar-collapse{background-color:#fff;color:#666;}
+.app-skin-red .app-header .navbar-collapse a{ color:#666;}
+.app-skin-red .app-header .navbar-collapse a:hover{ background-color:#efefef;}
+.app-skin-red .app-aside .aside-wrap{color:#ccc;}
+.app-skin-red .sidebar-menu li > a{color:#ccc;}
+.app-skin-red .sidebar-menu .treeview-menu{background:#2e3344;}
+.app-skin-red .sidebar-menu .treeview-menu > li.active > a,.app-skin-red .sidebar-menu li:hover,.app-skin-red .sidebar-menu li:hover span,.app-skin-red .sidebar-menu li a:hover{background-color:#32374a;}
+
+.app-skin-yellow-header{background-color:#3a3f51;}
+.app-skin-yellow-header .app-header .navbar-header a{background-color:#f39c12;color:#fff;}
+.app-skin-yellow-header .app-header .navbar-collapse{background-color:#f39c12;color:#fff;}
+.app-skin-yellow-header .app-header .navbar-collapse a{ color:#fff;}
+.app-skin-yellow-header .app-header .navbar-collapse a:hover{ background-color:#e08e0b;}
+.app-skin-yellow-header .app-aside .aside-wrap{color:#ccc;}
+.app-skin-yellow-header .sidebar-menu li > a{color:#ccc;}
+.app-skin-yellow-header .sidebar-menu .treeview-menu{background:#2e3344;}
+.app-skin-yellow-header .sidebar-menu .treeview-menu > li.active > a,.app-skin-yellow-header .sidebar-menu li:hover,.app-skin-yellow-header .sidebar-menu li:hover span,.app-skin-yellow-header .sidebar-menu li a:hover{background-color:#32374a;}
+
+.app-skin-yellow {background-color:#3a3f51;}
+.app-skin-yellow .app-header .navbar-header a{background-color:#f39c12;color:#fff;}
+.app-skin-yellow .app-header .navbar-collapse{background-color:#fff;color:#666;}
+.app-skin-yellow .app-header .navbar-collapse a{ color:#666;}
+.app-skin-yellow .app-header .navbar-collapse a:hover{ background-color:#efefef;}
+.app-skin-yellow .app-aside .aside-wrap{color:#ccc;}
+.app-skin-yellow .sidebar-menu li > a{color:#ccc;}
+.app-skin-yellow .sidebar-menu .treeview-menu{background:#2e3344;}
+.app-skin-yellow .sidebar-menu .treeview-menu > li.active > a,.app-skin-yellow .sidebar-menu li:hover,.app-skin-yellow .sidebar-menu li:hover span,.app-skin-yellow .sidebar-menu li a:hover{background-color:#32374a;}

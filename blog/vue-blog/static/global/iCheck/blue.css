@@ -1,0 +1,32 @@
+.iCheck-box{
+  display: inline-block;
+  position: relative;
+  width: 22px;
+  vertical-align: top;
+  height: 22px;
+
+  padding: 0;
+  margin: 0;
+  border: none;
+  cursor: pointer;
+}
+.iCheck-box > .iCheck-help:hover{
+  background-position: -24px 0;
+
+}
+.iCheck-box > .iCheck-help.checked{
+  background-position: -48px 0;
+}
+.iCheck-box>input[type=checkbox]{
+  opacity: 0;
+  position: absolute;
+}
+.iCheck-box > .iCheck-help{
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 100%;
+  height:100%;
+  display: block;
+  background: url(blue.png) no-repeat;
+}

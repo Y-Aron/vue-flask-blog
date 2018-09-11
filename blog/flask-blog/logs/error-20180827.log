@@ -1,0 +1,60 @@
+2018-08-27 00:21:25,120 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 00:49:25,067 - mysql.py[line:14] - ERROR: (1364, "Field 'create_time' doesn't have a default value")
+2018-08-27 00:50:05,596 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 00:50:43,663 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 00:51:48,159 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 00:53:42,115 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:07:17,759 - mysql.py[line:14] - ERROR: (1451, 'Cannot delete or update a parent row: a foreign key constraint fails (`learn`.`tb_auth_group_rule`, CONSTRAINT `FK_group_id` FOREIGN KEY (`group_id`) REFERENCES `tb_auth_group` (`id`) ON DELETE NO ACTION ON UPDATE CASCADE)')
+2018-08-27 01:33:26,393 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:34:02,302 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:34:07,589 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:34:25,510 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:34:48,820 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:35:05,059 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:35:56,596 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:36:39,079 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:36:50,543 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:37:17,567 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:37:19,884 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:37:56,464 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:38:34,490 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:38:52,664 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:38:56,358 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:39:46,367 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 02:28:30,767 - mysql.py[line:14] - ERROR: 'DictCursor' object has no attribute 'lastrowid'
+2018-08-27 02:29:22,707 - mysql.py[line:14] - ERROR: 'DictCursor' object has no attribute 'lastrowid'
+2018-08-27 02:29:32,937 - mysql.py[line:14] - ERROR: 'DictCursor' object has no attribute 'lastrowid'
+2018-08-27 02:30:02,493 - mysql.py[line:14] - ERROR: 'DictCursor' object has no attribute 'lastrowid'
+2018-08-27 02:30:12,827 - mysql.py[line:14] - ERROR: 'DictCursor' object has no attribute 'lastrowid'
+2018-08-27 02:30:14,486 - mysql.py[line:14] - ERROR: 'DictCursor' object has no attribute 'lastrowid'
+2018-08-27 02:30:24,889 - mysql.py[line:14] - ERROR: 'DictCursor' object has no attribute 'lastrowid'
+2018-08-27 02:32:57,532 - mysql.py[line:14] - ERROR: 'DictCursor' object has no attribute 'lastrowid'
+2018-08-27 02:33:10,849 - mysql.py[line:14] - ERROR: 'DictCursor' object has no attribute 'lastrowid'
+2018-08-27 02:33:29,778 - mysql.py[line:14] - ERROR: 'DictCursor' object has no attribute 'lastrowid'
+2018-08-27 02:33:50,523 - mysql.py[line:14] - ERROR: 'DictCursor' object has no attribute 'lastrowid'
+2018-08-27 02:34:33,074 - mysql.py[line:14] - ERROR: 'DictCursor' object has no attribute 'lastrowid'
+2018-08-27 02:34:53,030 - mysql.py[line:14] - ERROR: 'DictCursor' object has no attribute 'lastrowid'
+2018-08-27 02:41:15,357 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 02:42:03,518 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_auth_group_rule.id' in 'where clause'")
+2018-08-27 03:40:35,758 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-27 03:41:07,250 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-27 03:41:41,416 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-27 03:42:16,467 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-27 03:42:41,596 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-27 03:43:59,772 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-27 03:44:29,876 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-27 03:44:51,537 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-27 03:45:18,223 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-27 03:45:59,427 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-27 03:47:39,286 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_auth_group.rule_id' in 'where clause'")
+2018-08-27 03:51:12,268 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 03:51:15,228 - mysql.py[line:14] - ERROR: (1366, "Incorrect integer value: '' for column 'level' at row 1")
+2018-08-27 03:51:26,177 - mysql.py[line:14] - ERROR: (1366, "Incorrect integer value: '' for column 'level' at row 1")
+2018-08-27 03:51:44,063 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 03:53:36,210 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_auth_group.update_time' in 'field list'")
+2018-08-27 03:53:53,902 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_auth_group.update_time' in 'field list'")
+2018-08-27 03:54:07,643 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_auth_group.update_time' in 'field list'")
+2018-08-27 03:54:54,055 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 03:54:56,340 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 03:55:27,233 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 04:53:44,947 - mysql.py[line:14] - ERROR: (1364, "Field 'create_time' doesn't have a default value")

@@ -1,0 +1,237 @@
+2018-08-27 00:20:57,498 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 00:21:25,120 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 00:23:33,124 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 00:23:50,679 - mysql.py[line:273] - INFO: Successful insertion 1 data
+2018-08-27 00:49:16,583 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 00:49:25,055 - mysql.py[line:273] - INFO: Successful insertion 1 data
+2018-08-27 00:49:25,067 - mysql.py[line:14] - ERROR: (1364, "Field 'create_time' doesn't have a default value")
+2018-08-27 00:50:00,820 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 00:50:05,581 - mysql.py[line:273] - INFO: Successful insertion 1 data
+2018-08-27 00:50:05,596 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 00:50:39,053 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 00:50:43,651 - mysql.py[line:273] - INFO: Successful insertion 1 data
+2018-08-27 00:50:43,663 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 00:51:43,852 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 00:51:48,131 - mysql.py[line:275] - INFO: Successful insertion 1 data
+2018-08-27 00:51:48,159 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 00:53:32,509 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 00:53:42,101 - mysql.py[line:275] - INFO: Successful insertion 1 data
+2018-08-27 00:53:42,115 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 00:57:41,697 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 00:57:45,867 - mysql.py[line:275] - INFO: Successful insertion 1 data
+2018-08-27 00:57:45,884 - mysql.py[line:275] - INFO: Successful insertion 3 data
+2018-08-27 00:58:48,208 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 00:58:52,963 - mysql.py[line:273] - INFO: Successful insertion 1 data
+2018-08-27 00:58:52,979 - mysql.py[line:273] - INFO: Successful insertion 3 data
+2018-08-27 01:01:14,951 - mysql.py[line:273] - INFO: Successful insertion 1 data
+2018-08-27 01:01:14,965 - mysql.py[line:273] - INFO: Successful insertion 3 data
+2018-08-27 01:01:31,198 - mysql.py[line:273] - INFO: Successful insertion 1 data
+2018-08-27 01:01:31,216 - mysql.py[line:273] - INFO: Successful insertion 3 data
+2018-08-27 01:01:56,432 - mysql.py[line:273] - INFO: Successful insertion 1 data
+2018-08-27 01:01:56,447 - mysql.py[line:273] - INFO: Successful insertion 3 data
+2018-08-27 01:02:34,356 - mysql.py[line:135] - INFO: Deleted successfully 1 data
+2018-08-27 01:02:55,143 - mysql.py[line:135] - INFO: Deleted successfully 9 data
+2018-08-27 01:06:55,208 - mysql.py[line:273] - INFO: Successful insertion 1 data
+2018-08-27 01:06:55,231 - mysql.py[line:273] - INFO: Successful insertion 3 data
+2018-08-27 01:07:17,759 - mysql.py[line:14] - ERROR: (1451, 'Cannot delete or update a parent row: a foreign key constraint fails (`learn`.`tb_auth_group_rule`, CONSTRAINT `FK_group_id` FOREIGN KEY (`group_id`) REFERENCES `tb_auth_group` (`id`) ON DELETE NO ACTION ON UPDATE CASCADE)')
+2018-08-27 01:07:17,768 - mysql.py[line:135] - INFO: Deleted successfully 0 data
+2018-08-27 01:13:57,557 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 01:14:00,230 - mysql.py[line:135] - INFO: Deleted successfully 2 data
+2018-08-27 01:14:00,246 - mysql.py[line:135] - INFO: Deleted successfully 1 data
+2018-08-27 01:14:19,670 - mysql.py[line:273] - INFO: Successful insertion 1 data
+2018-08-27 01:14:19,697 - mysql.py[line:273] - INFO: Successful insertion 9 data
+2018-08-27 01:14:52,607 - mysql.py[line:135] - INFO: Deleted successfully 0 data
+2018-08-27 01:14:52,626 - mysql.py[line:135] - INFO: Deleted successfully 1 data
+2018-08-27 01:16:07,190 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 01:24:25,685 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 01:25:16,250 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 01:33:20,402 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 01:33:26,393 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:34:02,302 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:34:07,589 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:34:25,510 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:34:48,820 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:35:05,059 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:35:56,596 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:36:39,079 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:36:50,543 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:37:17,567 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:37:19,884 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:37:56,464 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:38:34,490 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:38:52,664 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:38:56,358 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:39:46,367 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 01:41:36,380 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 01:46:13,393 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 01:46:15,079 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-27 01:46:42,421 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-27 01:46:54,154 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-27 01:47:02,541 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 01:47:03,044 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-27 01:58:18,869 - mysql.py[line:273] - INFO: Successful insertion 1 data
+2018-08-27 01:58:18,896 - mysql.py[line:273] - INFO: Successful insertion 4 data
+2018-08-27 01:59:00,756 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 01:59:04,441 - mysql.py[line:273] - INFO: Successful insertion 1 data
+2018-08-27 01:59:04,475 - mysql.py[line:273] - INFO: Successful insertion 4 data
+2018-08-27 01:59:37,607 - mysql.py[line:135] - INFO: Deleted successfully 1 data
+2018-08-27 02:04:23,848 - mysql.py[line:273] - INFO: Successful insertion 1 data
+2018-08-27 02:04:23,874 - mysql.py[line:273] - INFO: Successful insertion 4 data
+2018-08-27 02:04:31,423 - mysql.py[line:135] - INFO: Deleted successfully 1 data
+2018-08-27 02:28:30,767 - mysql.py[line:76] - INFO: Successful replace 0 data
+2018-08-27 02:28:30,767 - mysql.py[line:14] - ERROR: 'DictCursor' object has no attribute 'lastrowid'
+2018-08-27 02:29:22,707 - mysql.py[line:76] - INFO: Successful replace 0 data
+2018-08-27 02:29:22,707 - mysql.py[line:14] - ERROR: 'DictCursor' object has no attribute 'lastrowid'
+2018-08-27 02:29:32,937 - mysql.py[line:76] - INFO: Successful replace 0 data
+2018-08-27 02:29:32,937 - mysql.py[line:14] - ERROR: 'DictCursor' object has no attribute 'lastrowid'
+2018-08-27 02:30:02,493 - mysql.py[line:77] - INFO: Successful replace 0 data
+2018-08-27 02:30:02,493 - mysql.py[line:14] - ERROR: 'DictCursor' object has no attribute 'lastrowid'
+2018-08-27 02:30:12,826 - mysql.py[line:77] - INFO: Successful replace 0 data
+2018-08-27 02:30:12,827 - mysql.py[line:14] - ERROR: 'DictCursor' object has no attribute 'lastrowid'
+2018-08-27 02:30:14,486 - mysql.py[line:77] - INFO: Successful replace 0 data
+2018-08-27 02:30:14,486 - mysql.py[line:14] - ERROR: 'DictCursor' object has no attribute 'lastrowid'
+2018-08-27 02:30:24,888 - mysql.py[line:77] - INFO: Successful replace 0 data
+2018-08-27 02:30:24,889 - mysql.py[line:14] - ERROR: 'DictCursor' object has no attribute 'lastrowid'
+2018-08-27 02:32:57,532 - mysql.py[line:77] - INFO: Successful replace 0 data
+2018-08-27 02:32:57,532 - mysql.py[line:14] - ERROR: 'DictCursor' object has no attribute 'lastrowid'
+2018-08-27 02:33:10,849 - mysql.py[line:77] - INFO: Successful replace 0 data
+2018-08-27 02:33:10,849 - mysql.py[line:14] - ERROR: 'DictCursor' object has no attribute 'lastrowid'
+2018-08-27 02:33:29,778 - mysql.py[line:77] - INFO: Successful replace 0 data
+2018-08-27 02:33:29,778 - mysql.py[line:14] - ERROR: 'DictCursor' object has no attribute 'lastrowid'
+2018-08-27 02:33:50,523 - mysql.py[line:77] - INFO: Successful replace 0 data
+2018-08-27 02:33:50,523 - mysql.py[line:14] - ERROR: 'DictCursor' object has no attribute 'lastrowid'
+2018-08-27 02:34:33,074 - mysql.py[line:77] - INFO: Successful replace 0 data
+2018-08-27 02:34:33,074 - mysql.py[line:14] - ERROR: 'DictCursor' object has no attribute 'lastrowid'
+2018-08-27 02:34:53,030 - mysql.py[line:78] - INFO: Successful replace 0 data
+2018-08-27 02:34:53,030 - mysql.py[line:14] - ERROR: 'DictCursor' object has no attribute 'lastrowid'
+2018-08-27 02:36:19,192 - mysql.py[line:78] - INFO: Successful replace 1 data
+2018-08-27 02:37:02,675 - mysql.py[line:76] - INFO: Successful replace 3 data
+2018-08-27 02:37:15,419 - mysql.py[line:76] - INFO: Successful replace 3 data
+2018-08-27 02:37:29,238 - mysql.py[line:76] - INFO: Successful replace 2 data
+2018-08-27 02:40:16,672 - mysql.py[line:76] - INFO: Successful replace 3 data
+2018-08-27 02:40:19,363 - mysql.py[line:76] - INFO: Successful replace 3 data
+2018-08-27 02:40:30,238 - mysql.py[line:76] - INFO: Successful replace 2 data
+2018-08-27 02:41:10,505 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 02:41:15,357 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 02:41:22,891 - mysql.py[line:220] - INFO: Data updated successfully 0
+2018-08-27 02:41:22,921 - mysql.py[line:76] - INFO: Successful replace 16 data
+2018-08-27 02:41:58,150 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 02:41:59,274 - mysql.py[line:220] - INFO: Data updated successfully 0
+2018-08-27 02:41:59,292 - mysql.py[line:76] - INFO: Successful replace 18 data
+2018-08-27 02:42:03,518 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_auth_group_rule.id' in 'where clause'")
+2018-08-27 02:42:03,520 - mysql.py[line:220] - INFO: Data updated successfully 0
+2018-08-27 02:42:03,534 - mysql.py[line:76] - INFO: Successful replace 12 data
+2018-08-27 02:45:56,135 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 03:40:26,850 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 03:40:35,731 - mysql.py[line:220] - INFO: Data updated successfully 0
+2018-08-27 03:40:35,748 - mysql.py[line:303] - INFO: Successful insertion 1 data
+2018-08-27 03:40:35,758 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-27 03:40:35,759 - mysql.py[line:165] - INFO: Deleted successfully 0 data
+2018-08-27 03:41:07,232 - mysql.py[line:220] - INFO: Data updated successfully 0
+2018-08-27 03:41:07,250 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-27 03:41:07,251 - mysql.py[line:165] - INFO: Deleted successfully 0 data
+2018-08-27 03:41:40,492 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 03:41:41,395 - mysql.py[line:220] - INFO: Data updated successfully 0
+2018-08-27 03:41:41,416 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-27 03:41:41,418 - mysql.py[line:165] - INFO: Deleted successfully 0 data
+2018-08-27 03:42:15,442 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 03:42:16,449 - mysql.py[line:220] - INFO: Data updated successfully 0
+2018-08-27 03:42:16,467 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-27 03:42:16,469 - mysql.py[line:165] - INFO: Deleted successfully 0 data
+2018-08-27 03:42:41,154 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 03:42:41,582 - mysql.py[line:220] - INFO: Data updated successfully 0
+2018-08-27 03:42:41,596 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-27 03:42:41,597 - mysql.py[line:165] - INFO: Deleted successfully 0 data
+2018-08-27 03:43:58,955 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 03:43:59,752 - mysql.py[line:221] - INFO: Data updated successfully 0
+2018-08-27 03:43:59,772 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-27 03:43:59,774 - mysql.py[line:166] - INFO: Deleted successfully 0 data
+2018-08-27 03:44:29,181 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 03:44:29,856 - mysql.py[line:222] - INFO: Data updated successfully 0
+2018-08-27 03:44:29,876 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-27 03:44:29,879 - mysql.py[line:166] - INFO: Deleted successfully 0 data
+2018-08-27 03:44:51,062 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 03:44:51,519 - mysql.py[line:222] - INFO: Data updated successfully 0
+2018-08-27 03:44:51,537 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-27 03:44:51,539 - mysql.py[line:166] - INFO: Deleted successfully 0 data
+2018-08-27 03:45:17,708 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 03:45:18,205 - mysql.py[line:222] - INFO: Data updated successfully 0
+2018-08-27 03:45:18,223 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-27 03:45:18,224 - mysql.py[line:166] - INFO: Deleted successfully 0 data
+2018-08-27 03:45:38,442 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 03:45:58,898 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 03:45:59,413 - mysql.py[line:221] - INFO: Data updated successfully 0
+2018-08-27 03:45:59,427 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-27 03:45:59,430 - mysql.py[line:166] - INFO: Deleted successfully 0 data
+2018-08-27 03:46:39,176 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 03:46:39,673 - mysql.py[line:221] - INFO: Data updated successfully 0
+2018-08-27 03:47:38,206 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 03:47:39,273 - mysql.py[line:221] - INFO: Data updated successfully 0
+2018-08-27 03:47:39,286 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_auth_group.rule_id' in 'where clause'")
+2018-08-27 03:47:39,288 - mysql.py[line:166] - INFO: Deleted successfully 0 data
+2018-08-27 03:49:00,760 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 03:49:02,518 - mysql.py[line:221] - INFO: Data updated successfully 0
+2018-08-27 03:49:02,546 - mysql.py[line:166] - INFO: Deleted successfully 4 data
+2018-08-27 03:49:16,397 - mysql.py[line:221] - INFO: Data updated successfully 0
+2018-08-27 03:49:16,425 - mysql.py[line:304] - INFO: Successful insertion 6 data
+2018-08-27 03:49:37,987 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 03:49:39,168 - mysql.py[line:221] - INFO: Data updated successfully 0
+2018-08-27 03:49:59,623 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 03:50:00,498 - mysql.py[line:221] - INFO: Data updated successfully 0
+2018-08-27 03:50:17,285 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 03:50:23,725 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 03:50:24,713 - mysql.py[line:221] - INFO: Data updated successfully 0
+2018-08-27 03:50:37,537 - mysql.py[line:221] - INFO: Data updated successfully 0
+2018-08-27 03:50:37,559 - mysql.py[line:304] - INFO: Successful insertion 9 data
+2018-08-27 03:50:45,788 - mysql.py[line:221] - INFO: Data updated successfully 0
+2018-08-27 03:50:45,806 - mysql.py[line:166] - INFO: Deleted successfully 1 data
+2018-08-27 03:51:05,572 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 03:51:12,268 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 03:51:15,228 - mysql.py[line:14] - ERROR: (1366, "Incorrect integer value: '' for column 'level' at row 1")
+2018-08-27 03:51:15,231 - mysql.py[line:219] - INFO: Data updated successfully 0
+2018-08-27 03:51:15,253 - mysql.py[line:302] - INFO: Successful insertion 2 data
+2018-08-27 03:51:26,177 - mysql.py[line:14] - ERROR: (1366, "Incorrect integer value: '' for column 'level' at row 1")
+2018-08-27 03:51:26,180 - mysql.py[line:219] - INFO: Data updated successfully 0
+2018-08-27 03:51:44,063 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 03:52:21,914 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 03:52:22,825 - mysql.py[line:219] - INFO: Data updated successfully 0
+2018-08-27 03:52:22,855 - mysql.py[line:164] - INFO: Deleted successfully 4 data
+2018-08-27 03:52:28,383 - mysql.py[line:219] - INFO: Data updated successfully 1
+2018-08-27 03:53:30,006 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 03:53:36,210 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_auth_group.update_time' in 'field list'")
+2018-08-27 03:53:36,213 - mysql.py[line:219] - INFO: Data updated successfully 0
+2018-08-27 03:53:53,902 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_auth_group.update_time' in 'field list'")
+2018-08-27 03:53:53,904 - mysql.py[line:219] - INFO: Data updated successfully 0
+2018-08-27 03:54:03,473 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 03:54:07,643 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_auth_group.update_time' in 'field list'")
+2018-08-27 03:54:07,646 - mysql.py[line:219] - INFO: Data updated successfully 0
+2018-08-27 03:54:35,265 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 03:54:35,959 - mysql.py[line:219] - INFO: Data updated successfully 1
+2018-08-27 03:54:45,062 - mysql.py[line:219] - INFO: Data updated successfully 1
+2018-08-27 03:54:45,073 - mysql.py[line:302] - INFO: Successful insertion 2 data
+2018-08-27 03:54:54,055 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 03:54:56,340 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 03:55:27,233 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-27 03:56:44,544 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 03:56:54,765 - mysql.py[line:219] - INFO: Data updated successfully 1
+2018-08-27 03:56:54,781 - mysql.py[line:302] - INFO: Successful insertion 3 data
+2018-08-27 04:06:54,711 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 04:13:42,213 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 04:33:36,954 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 04:36:31,151 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 04:53:43,550 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 04:53:44,947 - mysql.py[line:14] - ERROR: (1364, "Field 'create_time' doesn't have a default value")
+2018-08-27 04:54:09,792 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 04:54:11,582 - mysql.py[line:302] - INFO: Successful insertion 1 data
+2018-08-27 04:54:47,676 - mysql.py[line:302] - INFO: Successful insertion 1 data
+2018-08-27 05:06:59,206 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 05:08:50,768 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 05:10:09,482 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 05:10:23,763 - mysql.py[line:219] - INFO: Data updated successfully 1
+2018-08-27 05:10:36,459 - mysql.py[line:219] - INFO: Data updated successfully 1
+2018-08-27 05:11:02,510 - mysql.py[line:219] - INFO: Data updated successfully 1
+2018-08-27 05:11:15,744 - mysql.py[line:219] - INFO: Data updated successfully 1
+2018-08-27 05:11:50,009 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 05:11:52,413 - mysql.py[line:219] - INFO: Data updated successfully 1
+2018-08-27 05:12:30,095 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-27 05:12:31,464 - mysql.py[line:219] - INFO: Data updated successfully 1

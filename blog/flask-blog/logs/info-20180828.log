@@ -1,0 +1,70 @@
+2018-08-28 08:37:01,571 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 08:40:22,675 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 08:40:47,177 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 08:49:16,916 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 08:50:44,907 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 08:52:22,500 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 08:53:42,801 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 08:53:44,157 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_auth_user_group.uuid' in 'field list'")
+2018-08-28 08:54:01,646 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 08:54:02,178 - mysql.py[line:14] - ERROR: (1364, "Field 'create_time' doesn't have a default value")
+2018-08-28 08:54:14,432 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 08:54:15,145 - mysql.py[line:14] - ERROR: (1062, "Duplicate entry '1-1' for key 'PRIMARY'")
+2018-08-28 08:54:37,134 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 08:54:37,632 - mysql.py[line:76] - INFO: Successful replace 4 data
+2018-08-28 08:55:17,386 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 08:55:18,408 - mysql.py[line:76] - INFO: Successful replace 4 data
+2018-08-28 08:55:43,703 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 08:55:44,099 - mysql.py[line:76] - INFO: Successful replace 4 data
+2018-08-28 09:01:38,328 - mysql.py[line:76] - INFO: Successful replace 4 data
+2018-08-28 09:02:11,573 - mysql.py[line:76] - INFO: Successful replace 4 data
+2018-08-28 09:02:17,893 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 09:02:19,325 - mysql.py[line:76] - INFO: Successful replace 4 data
+2018-08-28 09:02:24,091 - mysql.py[line:76] - INFO: Successful replace 2 data
+2018-08-28 09:10:57,289 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 09:10:58,065 - mysql.py[line:164] - INFO: Deleted successfully 1 data
+2018-08-28 09:12:21,888 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 09:12:49,890 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 09:12:51,272 - mysql.py[line:302] - INFO: Successful insertion 1 data
+2018-08-28 09:14:48,989 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 09:15:36,791 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 09:17:41,772 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 09:19:24,938 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 09:21:40,256 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 09:21:42,204 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'c.name' in 'field list'")
+2018-08-28 09:21:51,433 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 09:26:24,523 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 09:37:09,876 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 09:37:13,783 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.username, b.group_id FROM tb_user AS a LEFT JOIN tb_auth_user_group as b ON a.i' at line 1")
+2018-08-28 09:37:43,519 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.username, b.group_id FROM tb_user AS a LEFT JOIN tb_auth_user_group as b ON a.i' at line 1")
+2018-08-28 09:38:01,087 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.username, b.group_id FROM tb_user AS a LEFT JOIN tb_auth_user_group as b ON a.i' at line 1")
+2018-08-28 09:38:23,330 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.username, b.group_id FROM tb_user AS a LEFT JOIN tb_auth_user_group as b ON a.i' at line 1")
+2018-08-28 09:38:52,368 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 09:38:55,320 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.username, b.group_id FROM tb_user AS a LEFT JOIN tb_auth_user_group as b ON a.i' at line 1")
+2018-08-28 09:40:16,188 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 09:40:18,926 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.username, b.group_id FROM tb_user AS a LEFT JOIN tb_auth_user_group as b ON a.i' at line 1")
+2018-08-28 09:40:47,573 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 09:45:09,142 - mysql.py[line:302] - INFO: Successful insertion 2 data
+2018-08-28 09:47:41,005 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 09:48:23,844 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 09:48:24,681 - mysql.py[line:164] - INFO: Deleted successfully 2 data
+2018-08-28 09:53:04,680 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 09:53:06,379 - mysql.py[line:310] - INFO: Successful insertion 1 data
+2018-08-28 09:53:16,953 - mysql.py[line:310] - INFO: Successful insertion 1 data
+2018-08-28 11:56:42,828 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 11:58:25,639 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 11:58:57,368 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 12:38:13,266 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 12:39:10,239 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 12:39:35,975 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 12:40:04,784 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 12:40:54,768 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 12:41:24,967 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 12:41:58,520 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 12:42:35,459 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 12:43:06,618 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 12:43:08,398 - mysql.py[line:310] - INFO: Successful insertion 1 data
+2018-08-28 12:43:29,436 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 12:44:17,820 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 12:46:21,516 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-28 12:46:29,159 - mysql.py[line:310] - INFO: Successful insertion 1 data

@@ -1,0 +1,2 @@
+2018-09-05 00:59:28,388 - mysql.py[line:15] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'select table_name,table_rows from tables where TABLE_SCHEMA = 'learn' order by t' at line 1")
+2018-09-05 01:00:03,845 - mysql.py[line:15] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'select table_name,table_rows from tables where TABLE_SCHEMA = `learn` order by t' at line 1")

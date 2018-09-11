@@ -1,0 +1,2 @@
+2018-09-09 03:07:13,154 - mysql.py[line:15] - ERROR: (1054, "Unknown column 'tb_arctype.mid' in 'field list'")
+2018-09-09 03:07:15,753 - mysql.py[line:15] - ERROR: (1054, "Unknown column 'tb_arctype.mid' in 'field list'")

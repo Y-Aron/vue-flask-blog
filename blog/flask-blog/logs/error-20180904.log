@@ -1,0 +1,2 @@
+2018-09-04 22:08:08,798 - mysql.py[line:15] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table} set `views`=`views`+1 WHERE `id`=74' at line 1")
+2018-09-04 22:08:17,560 - mysql.py[line:15] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table} set `views`=`views`+1 WHERE `id`=74' at line 1")

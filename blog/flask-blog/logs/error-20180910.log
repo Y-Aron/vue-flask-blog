@@ -1,0 +1,4 @@
+2018-09-10 20:12:54,014 - mysql.py[line:15] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0', '10'' at line 1")
+2018-09-10 20:13:35,996 - mysql.py[line:15] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0', '10'' at line 1")
+2018-09-10 21:56:20,154 - mysql.py[line:15] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-09-10 21:56:39,769 - mysql.py[line:15] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")

@@ -1,0 +1,211 @@
+2018-08-26 11:21:40,454 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:11:49,916 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:12:39,528 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:14:47,016 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:15:07,720 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:15:36,848 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:17:20,648 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:22:07,793 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:22:09,160 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user.avatar' in 'field list'")
+2018-08-26 12:22:09,163 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:23:00,358 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:23:00,549 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user.avatar' in 'field list'")
+2018-08-26 12:23:00,551 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:26:48,383 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:26:50,140 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:26:50,156 - mysql.py[line:191] - INFO: Data updated successfully 1
+2018-08-26 12:27:46,587 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:27:50,634 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:27:50,647 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:29:51,615 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:29:51,812 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:29:51,824 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:30:01,925 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user_info.nickname' in 'field list'")
+2018-08-26 12:30:01,927 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:30:01,943 - mysql.py[line:191] - INFO: Data updated successfully 1
+2018-08-26 12:31:20,672 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:31:21,186 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:31:21,199 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:31:33,292 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user_info.nickname' in 'field list'")
+2018-08-26 12:31:33,294 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:31:33,309 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:32:02,544 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:32:04,393 - mysql.py[line:191] - INFO: Data updated successfully 1
+2018-08-26 12:32:45,825 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:32:45,841 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:32:53,532 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user_info.nickname' in 'field list'")
+2018-08-26 12:32:53,533 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:32:53,549 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:34:32,730 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:34:33,247 - mysql.py[line:191] - INFO: Data updated successfully 1
+2018-08-26 12:34:33,260 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:34:50,810 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:34:52,841 - mysql.py[line:191] - INFO: Data updated successfully 1
+2018-08-26 12:34:52,854 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:34:59,826 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user_info.nickname' in 'field list'")
+2018-08-26 12:34:59,828 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:34:59,846 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:35:29,942 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:35:30,394 - mysql.py[line:191] - INFO: Data updated successfully 1
+2018-08-26 12:35:30,406 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:35:39,267 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user_info.nickname' in 'field list'")
+2018-08-26 12:35:39,269 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:35:39,283 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:35:45,150 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user_info.nickname' in 'field list'")
+2018-08-26 12:35:45,152 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:35:45,168 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:36:33,547 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:36:33,881 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:36:33,894 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:36:55,601 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:36:55,857 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:36:55,869 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:37:05,848 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user_info.nickname' in 'field list'")
+2018-08-26 12:37:05,849 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:37:05,864 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:38:52,086 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:38:52,600 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:38:52,611 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:38:53,107 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user_info.nickname' in 'field list'")
+2018-08-26 12:38:53,109 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:38:53,124 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:40:21,121 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:40:21,273 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:40:21,294 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:40:21,606 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user_info.nickname' in 'field list'")
+2018-08-26 12:40:21,608 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:40:21,625 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:44:32,226 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:44:35,345 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:44:35,353 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user.id' in 'where clause'")
+2018-08-26 12:44:35,355 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:44:35,700 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:44:35,708 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user.id' in 'where clause'")
+2018-08-26 12:44:35,710 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:44:55,626 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:44:55,913 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:44:55,920 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user.id' in 'where clause'")
+2018-08-26 12:44:55,921 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:46:33,096 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:46:33,220 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:46:33,234 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:46:41,956 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user_info.nickname' in 'field list'")
+2018-08-26 12:46:41,957 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:46:41,971 - mysql.py[line:191] - INFO: Data updated successfully 0
+2018-08-26 12:47:23,818 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:47:24,217 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 12:47:24,230 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 12:47:29,123 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 12:47:29,134 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 12:47:41,284 - mysql.py[line:190] - INFO: Data updated successfully 1
+2018-08-26 12:47:41,297 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 12:48:55,835 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:48:56,122 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 12:48:56,137 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 12:48:58,834 - mysql.py[line:190] - INFO: Data updated successfully 1
+2018-08-26 12:49:14,390 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:49:14,528 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 12:49:14,541 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 12:49:16,591 - mysql.py[line:190] - INFO: Data updated successfully 1
+2018-08-26 12:49:27,739 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 12:49:27,751 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 12:49:37,026 - mysql.py[line:190] - INFO: Data updated successfully 1
+2018-08-26 12:50:20,197 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:50:20,635 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 12:50:20,648 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 12:50:27,295 - mysql.py[line:190] - INFO: Data updated successfully 1
+2018-08-26 12:51:24,125 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:51:24,203 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 12:51:24,219 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 12:51:28,181 - mysql.py[line:190] - INFO: Data updated successfully 1
+2018-08-26 12:51:28,202 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 12:51:46,823 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:51:47,397 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 12:51:47,416 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 12:51:49,846 - mysql.py[line:190] - INFO: Data updated successfully 1
+2018-08-26 12:51:49,863 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 12:52:35,916 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:52:35,958 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 12:52:35,969 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 12:52:38,053 - mysql.py[line:190] - INFO: Data updated successfully 1
+2018-08-26 12:52:38,070 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 12:54:16,656 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'a.username' in 'field list'")
+2018-08-26 12:54:22,056 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'a.username' in 'field list'")
+2018-08-26 12:54:24,596 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'a.username' in 'field list'")
+2018-08-26 12:54:48,009 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'a.username' in 'field list'")
+2018-08-26 12:55:20,644 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'a.username' in 'field list'")
+2018-08-26 12:55:27,579 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'a.username' in 'field list'")
+2018-08-26 12:55:44,203 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:57:45,415 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 12:57:45,421 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-26 12:57:45,422 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 12:58:04,526 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'a.username' in 'field list'")
+2018-08-26 12:58:07,829 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'a.username' in 'field list'")
+2018-08-26 12:58:11,158 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'a.username' in 'field list'")
+2018-08-26 12:59:14,527 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:59:26,845 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 12:59:26,850 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-26 12:59:26,851 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 12:59:41,862 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 12:59:54,266 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 12:59:54,274 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-26 12:59:54,275 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 13:00:25,427 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 13:00:25,792 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 13:00:25,798 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-26 13:00:25,800 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 13:00:59,734 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 13:01:00,775 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 13:01:00,781 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-26 13:01:00,782 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 13:01:36,463 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 13:01:37,978 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 13:01:37,984 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-26 13:01:37,986 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 13:01:53,706 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 13:04:12,908 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 13:04:18,245 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 13:04:18,251 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-26 13:04:18,253 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 13:04:26,062 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 13:04:27,886 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 13:04:27,892 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-26 13:04:27,893 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 13:05:11,404 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 13:05:11,418 - mysql.py[line:190] - INFO: Data updated successfully 1
+2018-08-26 13:05:22,547 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 13:05:22,560 - mysql.py[line:190] - INFO: Data updated successfully 1
+2018-08-26 13:05:34,559 - mysql.py[line:190] - INFO: Data updated successfully 1
+2018-08-26 13:05:34,571 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 13:06:11,473 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 13:06:11,481 - mysql.py[line:14] - ERROR: (1366, "Incorrect integer value: '' for column 'sex' at row 1")
+2018-08-26 13:06:11,482 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 13:06:15,397 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 13:06:15,405 - mysql.py[line:14] - ERROR: (1366, "Incorrect integer value: '' for column 'sex' at row 1")
+2018-08-26 13:06:15,406 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 13:07:10,639 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 13:07:10,646 - mysql.py[line:14] - ERROR: (1366, "Incorrect integer value: '' for column 'sex' at row 1")
+2018-08-26 13:07:10,647 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 13:07:43,377 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 13:07:43,391 - mysql.py[line:190] - INFO: Data updated successfully 1
+2018-08-26 13:07:54,270 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 13:07:54,290 - mysql.py[line:190] - INFO: Data updated successfully 1
+2018-08-26 13:08:01,202 - mysql.py[line:135] - INFO: Deleted successfully 1 data
+2018-08-26 13:08:36,718 - mysql.py[line:135] - INFO: Deleted successfully 1 data
+2018-08-26 13:08:51,886 - mysql.py[line:110] - INFO: Execute the stored procedure !
+2018-08-26 13:10:24,781 - mysql.py[line:110] - INFO: Execute the stored procedure !
+2018-08-26 13:10:31,901 - mysql.py[line:110] - INFO: Execute the stored procedure !
+2018-08-26 13:11:09,631 - mysql.py[line:190] - INFO: Data updated successfully 1
+2018-08-26 13:11:09,647 - mysql.py[line:190] - INFO: Data updated successfully 1
+2018-08-26 13:11:16,357 - mysql.py[line:190] - INFO: Data updated successfully 0
+2018-08-26 13:11:16,374 - mysql.py[line:190] - INFO: Data updated successfully 1
+2018-08-26 13:47:34,043 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 13:47:38,424 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-26 13:48:38,879 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 13:50:22,226 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 13:50:28,425 - mysql.py[line:135] - INFO: Deleted successfully 1 data
+2018-08-26 22:39:20,245 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 23:21:47,175 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 23:21:57,235 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-26 23:22:16,165 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-26 23:22:16,263 - mysql.py[line:14] - ERROR: not enough arguments for format string

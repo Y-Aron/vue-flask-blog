@@ -1,0 +1,22 @@
+2018-08-29 02:28:15,893 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-29 02:51:38,775 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-29 02:54:15,634 - mysql.py[line:310] - INFO: Successful insertion 1 data
+2018-08-29 02:55:04,668 - mysql.py[line:310] - INFO: Successful insertion 1 data
+2018-08-29 02:56:26,123 - mysql.py[line:148] - INFO: Execute the stored procedure !
+2018-08-29 02:56:30,544 - mysql.py[line:148] - INFO: Execute the stored procedure !
+2018-08-29 02:56:32,532 - mysql.py[line:148] - INFO: Execute the stored procedure !
+2018-08-29 02:56:34,819 - mysql.py[line:148] - INFO: Execute the stored procedure !
+2018-08-29 02:59:22,950 - mysql.py[line:227] - INFO: Data updated successfully 1
+2018-08-29 02:59:22,982 - mysql.py[line:310] - INFO: Successful insertion 7 data
+2018-08-29 03:51:50,442 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-29 03:51:55,424 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-29 03:52:17,500 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-29 03:53:54,576 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-29 03:53:58,431 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-29 03:54:07,144 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-29 03:55:13,182 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-29 03:59:00,230 - mysql.py[line:310] - INFO: Successful insertion 1 data
+2018-08-29 04:02:18,019 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-29 04:02:25,147 - mysql.py[line:172] - INFO: Deleted successfully 1 data
+2018-08-29 04:02:40,877 - mysql.py[line:172] - INFO: Deleted successfully 2 data
+2018-08-29 10:54:56,771 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888

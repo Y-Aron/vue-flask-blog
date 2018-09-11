@@ -1,0 +1,78 @@
+2018-09-05 00:59:28,388 - mysql.py[line:15] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'select table_name,table_rows from tables where TABLE_SCHEMA = 'learn' order by t' at line 1")
+2018-09-05 01:00:03,845 - mysql.py[line:15] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'select table_name,table_rows from tables where TABLE_SCHEMA = `learn` order by t' at line 1")
+2018-09-05 01:35:40,785 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 01:41:02,598 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 01:44:43,944 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 01:49:13,913 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 02:05:49,668 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 02:06:01,048 - mysql.py[line:311] - INFO: Successful insertion 1 data
+2018-09-05 02:06:20,033 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 19:59:12,983 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 19:59:42,780 - mysql.py[line:311] - INFO: Successful insertion 1 data
+2018-09-05 20:05:39,075 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 20:07:38,203 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 20:07:46,347 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 20:08:51,216 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 20:11:09,030 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 20:13:00,594 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 20:14:05,970 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 20:15:45,944 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 20:22:53,169 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 20:26:03,038 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 21:20:33,357 - mysql.py[line:311] - INFO: Successful insertion 1 data
+2018-09-05 21:21:38,623 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 21:25:21,277 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 21:51:15,219 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 21:59:00,256 - mysql.py[line:311] - INFO: Successful insertion 1 data
+2018-09-05 21:59:49,535 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 22:00:36,648 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 22:01:01,993 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 22:02:38,919 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 22:03:42,512 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 22:25:13,375 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 22:25:21,008 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 22:36:48,656 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 22:37:01,748 - mysql.py[line:311] - INFO: Successful insertion 1 data
+2018-09-05 22:38:32,299 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 22:38:47,162 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 22:39:11,739 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 22:39:49,768 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 22:40:59,174 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 22:41:26,079 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 22:42:10,639 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 22:43:04,020 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 22:43:32,815 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 22:43:56,462 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 22:44:30,417 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 22:45:16,091 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 22:45:52,780 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 22:50:15,395 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 22:51:37,906 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 22:52:10,587 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 22:52:39,026 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 22:53:59,568 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 22:54:59,387 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 22:55:30,126 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 22:58:05,010 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 22:58:46,236 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 23:08:55,638 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 23:12:46,534 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 23:21:10,404 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 23:32:30,317 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 23:32:51,037 - mysql.py[line:311] - INFO: Successful insertion 1 data
+2018-09-05 23:33:12,471 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 23:33:30,655 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 23:33:59,701 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 23:35:43,889 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 23:36:58,349 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 23:37:57,426 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 23:38:13,896 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 23:39:55,928 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 23:41:07,012 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 23:41:46,747 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 23:42:30,384 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 23:44:19,680 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 23:57:02,413 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 23:58:09,745 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 23:58:46,574 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-06 00:03:22,330 - mysql.py[line:311] - INFO: Successful insertion 1 data

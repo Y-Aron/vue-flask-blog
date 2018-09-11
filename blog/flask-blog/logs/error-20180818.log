@@ -1,0 +1,19 @@
+2018-08-18 20:50:49,285 - __init__.py[line:13] - ERROR: 'dict_values' object has no attribute 'translate'
+2018-08-18 20:51:37,127 - __init__.py[line:13] - ERROR: 'dict_values' object has no attribute 'translate'
+2018-08-18 20:52:04,656 - __init__.py[line:13] - ERROR: 'dict_values' object has no attribute 'translate'
+2018-08-18 20:52:21,117 - __init__.py[line:13] - ERROR: 'dict_values' object has no attribute 'translate'
+2018-08-18 20:53:10,611 - __init__.py[line:13] - ERROR: 'dict_values' object has no attribute 'translate'
+2018-08-18 20:53:34,031 - __init__.py[line:13] - ERROR: 'dict_values' object has no attribute 'translate'
+2018-08-18 20:56:00,186 - __init__.py[line:13] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-18 20:56:39,038 - __init__.py[line:13] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-18 20:56:57,299 - __init__.py[line:13] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-18 20:57:23,056 - __init__.py[line:13] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-18 20:58:29,976 - __init__.py[line:13] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-18 21:00:46,911 - __init__.py[line:13] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-18 21:01:50,093 - __init__.py[line:13] - ERROR: 'dict_values' object has no attribute 'translate'
+2018-08-18 21:13:11,636 - __init__.py[line:13] - ERROR: (1054, "Unknown column 'None.name' in 'field list'")
+2018-08-18 21:13:21,906 - __init__.py[line:13] - ERROR: (1054, "Unknown column 'None.name' in 'field list'")
+2018-08-18 23:09:03,688 - __init__.py[line:13] - ERROR: not all arguments converted during string formatting
+2018-08-18 23:09:23,126 - __init__.py[line:13] - ERROR: not all arguments converted during string formatting
+2018-08-18 23:25:58,366 - __init__.py[line:13] - ERROR: not all arguments converted during string formatting
+2018-08-18 23:58:09,495 - __init__.py[line:13] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")

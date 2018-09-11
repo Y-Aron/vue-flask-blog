@@ -1,0 +1,40 @@
+2018-08-24 01:54:08,061 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-24 02:03:11,436 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-24 02:04:09,485 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-24 02:44:12,202 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-24 02:49:36,994 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-24 02:49:57,374 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-24 02:50:53,038 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-24 02:51:57,540 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-24 03:30:16,586 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-24 03:30:23,735 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-24 03:31:45,482 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-24 03:33:00,454 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-24 03:33:02,691 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-24 03:33:18,525 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-24 03:34:08,030 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-24 03:34:08,887 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-24 03:34:30,050 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-24 03:39:20,790 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-24 04:37:03,616 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-24 05:32:50,918 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-24 06:20:47,790 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-24 06:28:55,515 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-24 06:31:08,614 - mysql.py[line:189] - INFO: Data updated successfully 1
+2018-08-24 08:00:26,864 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-24 08:22:33,961 - mysql.py[line:189] - INFO: Data updated successfully 1
+2018-08-24 08:26:48,812 - mysql.py[line:189] - INFO: Data updated successfully 1
+2018-08-24 08:31:38,586 - mysql.py[line:189] - INFO: Data updated successfully 1
+2018-08-24 08:33:15,677 - mysql.py[line:189] - INFO: Data updated successfully 1
+2018-08-24 08:46:35,444 - mysql.py[line:189] - INFO: Data updated successfully 1
+2018-08-24 08:53:13,278 - mysql.py[line:189] - INFO: Data updated successfully 1
+2018-08-24 09:43:45,637 - mysql.py[line:133] - INFO: Deleted successfully 10 data
+2018-08-24 09:43:49,872 - mysql.py[line:133] - INFO: Deleted successfully 1 data
+2018-08-24 09:44:47,823 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-24 09:47:23,210 - mysql.py[line:189] - INFO: Data updated successfully 1
+2018-08-24 09:50:30,022 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-24 09:51:03,558 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-24 09:57:54,786 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-24 10:05:05,419 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-25 04:26:41,769 - mysql.py[line:189] - INFO: Data updated successfully 1
+2018-08-25 04:44:14,254 - mysql.py[line:189] - INFO: Data updated successfully 1

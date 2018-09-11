@@ -1,0 +1,5 @@
+2018-08-29 03:51:55,424 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-29 03:52:17,500 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-29 03:53:54,576 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-29 03:53:58,431 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-29 03:54:07,144 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting

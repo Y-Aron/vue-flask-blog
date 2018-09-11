@@ -1,0 +1,1 @@
+2018-08-21 00:38:46,212 - __init__.py[line:16] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from tb_arctype' at line 1")

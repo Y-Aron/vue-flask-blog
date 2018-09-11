@@ -1,0 +1,94 @@
+2018-08-23 01:12:19,993 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 01:13:44,074 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 01:21:53,239 - mysql.py[line:133] - INFO: Deleted successfully 1 data
+2018-08-23 01:39:32,062 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-23 01:39:39,229 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-23 01:39:45,871 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-23 02:23:01,704 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-23 02:27:36,090 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 02:36:01,497 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-23 02:39:08,143 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 02:40:27,678 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 02:40:54,003 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 02:42:22,151 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 02:42:32,698 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 02:42:36,330 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 02:42:39,175 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 02:42:42,538 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 02:42:51,938 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 02:47:41,026 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 03:08:00,796 - mysql.py[line:189] - INFO: Data updated successfully 1
+2018-08-23 03:11:21,179 - mysql.py[line:133] - INFO: Deleted successfully 1 data
+2018-08-23 03:11:31,374 - mysql.py[line:133] - INFO: Deleted successfully 2 data
+2018-08-23 03:40:18,181 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 03:43:04,222 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 03:55:24,989 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 04:14:07,063 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-23 04:14:16,107 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-23 04:14:49,872 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-23 04:14:56,338 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-23 04:26:10,149 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 04:28:20,298 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-23 13:05:14,460 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 13:18:43,055 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 13:41:41,680 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-23 14:05:47,667 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-23 14:07:25,389 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-23 14:42:15,416 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-23 14:42:42,765 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 15:02:45,641 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-23 15:02:52,104 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-23 15:30:11,058 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 15:30:31,496 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 15:34:39,130 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 15:35:00,718 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 15:35:14,449 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 15:35:47,889 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 15:40:54,054 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 15:41:17,689 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 15:41:37,253 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 15:41:54,452 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 15:47:56,744 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 16:45:38,516 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 16:48:19,198 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 16:50:34,059 - mysql.py[line:189] - INFO: Data updated successfully 1
+2018-08-23 16:50:44,440 - mysql.py[line:189] - INFO: Data updated successfully 1
+2018-08-23 16:51:30,105 - mysql.py[line:189] - INFO: Data updated successfully 1
+2018-08-23 16:52:13,604 - mysql.py[line:189] - INFO: Data updated successfully 1
+2018-08-23 16:52:51,714 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 16:53:28,593 - mysql.py[line:189] - INFO: Data updated successfully 1
+2018-08-23 16:53:36,593 - mysql.py[line:189] - INFO: Data updated successfully 1
+2018-08-23 16:53:51,296 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 18:11:49,344 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 18:11:56,267 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-23 18:12:16,421 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 18:12:17,850 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-23 18:12:18,739 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-23 18:12:23,101 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 18:12:29,509 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-23 18:12:30,823 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-23 18:12:50,519 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 18:13:19,280 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 18:14:45,201 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 18:16:51,664 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-23 18:16:53,423 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-23 18:16:55,088 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-23 18:17:55,767 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 18:18:08,876 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-23 18:18:46,492 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 18:19:21,579 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 19:33:41,079 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-23 19:33:46,368 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-23 19:33:52,059 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-23 19:57:40,285 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 19:57:49,485 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-23 19:58:39,156 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-23 19:58:46,912 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-23 20:23:21,423 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 20:29:29,398 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 20:33:43,190 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 21:50:56,984 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 22:17:38,215 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-23 22:28:35,767 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 22:30:27,742 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-23 22:41:28,645 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888

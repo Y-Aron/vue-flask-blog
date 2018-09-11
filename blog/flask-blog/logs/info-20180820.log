@@ -1,0 +1,80 @@
+2018-08-20 00:01:10,213 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-20 00:30:13,192 - __init__.py[line:129] - INFO: Deleted successfully 1 data
+2018-08-20 00:30:17,712 - __init__.py[line:129] - INFO: Deleted successfully 1 data
+2018-08-20 00:37:52,796 - __init__.py[line:129] - INFO: Deleted successfully 1 data
+2018-08-20 00:40:56,489 - __init__.py[line:129] - INFO: Deleted successfully 1 data
+2018-08-20 00:42:38,096 - __init__.py[line:129] - INFO: Deleted successfully 2 data
+2018-08-20 00:42:49,747 - __init__.py[line:129] - INFO: Deleted successfully 1 data
+2018-08-20 00:43:14,736 - __init__.py[line:129] - INFO: Deleted successfully 2 data
+2018-08-20 00:44:08,997 - __init__.py[line:105] - INFO: Execute the stored procedure !
+2018-08-20 00:44:11,480 - __init__.py[line:105] - INFO: Execute the stored procedure !
+2018-08-20 00:44:19,988 - __init__.py[line:105] - INFO: Execute the stored procedure !
+2018-08-20 00:44:37,878 - __init__.py[line:105] - INFO: Execute the stored procedure !
+2018-08-20 00:44:49,166 - __init__.py[line:105] - INFO: Execute the stored procedure !
+2018-08-20 00:44:52,704 - __init__.py[line:105] - INFO: Execute the stored procedure !
+2018-08-20 00:44:56,615 - __init__.py[line:105] - INFO: Execute the stored procedure !
+2018-08-20 00:45:10,955 - __init__.py[line:105] - INFO: Execute the stored procedure !
+2018-08-20 00:45:14,670 - __init__.py[line:105] - INFO: Execute the stored procedure !
+2018-08-20 00:45:22,993 - __init__.py[line:129] - INFO: Deleted successfully 2 data
+2018-08-20 01:38:54,506 - __init__.py[line:129] - INFO: Deleted successfully 1 data
+2018-08-20 01:55:50,869 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-20 02:15:04,899 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-20 02:26:00,352 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-20 02:26:01,556 - __init__.py[line:144] - INFO: Deleted successfully 1 data
+2018-08-20 02:26:38,795 - __init__.py[line:144] - INFO: Deleted successfully 2 data
+2018-08-20 02:37:02,434 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-20 02:39:25,011 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-20 02:39:59,997 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-20 02:40:22,138 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-20 02:40:35,828 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-20 02:46:02,758 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-20 02:50:38,747 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-20 03:42:30,933 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-20 03:43:36,703 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-20 03:44:49,949 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-20 03:45:14,050 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-20 03:46:36,374 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-20 03:48:17,194 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-20 03:48:50,093 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-20 03:50:32,131 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-20 03:50:47,674 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-20 03:51:03,694 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-20 03:52:22,854 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-20 03:52:25,281 - __init__.py[line:16] - ERROR: 'builtin_function_or_method' object has no attribute 'translate'
+2018-08-20 03:52:43,506 - __init__.py[line:16] - ERROR: 'builtin_function_or_method' object has no attribute 'translate'
+2018-08-20 03:53:45,708 - __init__.py[line:16] - ERROR: 'builtin_function_or_method' object has no attribute 'translate'
+2018-08-20 03:54:04,683 - __init__.py[line:16] - ERROR: 'builtin_function_or_method' object has no attribute 'translate'
+2018-08-20 03:54:14,304 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-20 03:54:25,282 - __init__.py[line:16] - ERROR: 'builtin_function_or_method' object has no attribute 'translate'
+2018-08-20 03:54:31,938 - __init__.py[line:16] - ERROR: 'builtin_function_or_method' object has no attribute 'translate'
+2018-08-20 03:55:13,707 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-20 03:55:15,866 - __init__.py[line:16] - ERROR: 'builtin_function_or_method' object has no attribute 'translate'
+2018-08-20 03:55:36,068 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-20 03:55:45,578 - __init__.py[line:120] - INFO: Execute the stored procedure !
+2018-08-20 03:55:57,693 - __init__.py[line:120] - INFO: Execute the stored procedure !
+2018-08-20 03:57:17,425 - __init__.py[line:120] - INFO: Execute the stored procedure !
+2018-08-20 03:57:29,492 - __init__.py[line:120] - INFO: Execute the stored procedure !
+2018-08-20 03:59:34,178 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-20 04:00:24,840 - __init__.py[line:200] - INFO: Data updated successfully 1
+2018-08-20 04:00:58,183 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-20 04:01:13,251 - __init__.py[line:200] - INFO: Data updated successfully 1
+2018-08-20 04:01:16,271 - __init__.py[line:200] - INFO: Data updated successfully 1
+2018-08-20 04:03:45,154 - __init__.py[line:200] - INFO: Data updated successfully 1
+2018-08-20 04:04:03,390 - __init__.py[line:200] - INFO: Data updated successfully 0
+2018-08-20 04:04:06,565 - __init__.py[line:200] - INFO: Data updated successfully 0
+2018-08-20 04:04:13,577 - __init__.py[line:200] - INFO: Data updated successfully 0
+2018-08-20 04:04:42,196 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-20 04:04:43,056 - __init__.py[line:200] - INFO: Data updated successfully 0
+2018-08-20 04:07:50,975 - __init__.py[line:200] - INFO: Data updated successfully 0
+2018-08-20 04:07:59,317 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-20 04:07:59,711 - __init__.py[line:200] - INFO: Data updated successfully 1
+2018-08-20 04:09:19,342 - __init__.py[line:283] - INFO: Successful insertion 1 data
+2018-08-20 22:09:11,477 - __init__.py[line:120] - INFO: Execute the stored procedure !
+2018-08-20 22:13:23,981 - __init__.py[line:120] - INFO: Execute the stored procedure !
+2018-08-20 22:14:57,028 - __init__.py[line:120] - INFO: Execute the stored procedure !
+2018-08-21 00:19:56,082 - __init__.py[line:120] - INFO: Execute the stored procedure !
+2018-08-21 00:20:30,317 - __init__.py[line:120] - INFO: Execute the stored procedure !
+2018-08-21 00:20:54,870 - __init__.py[line:120] - INFO: Execute the stored procedure !
+2018-08-21 00:23:13,167 - __init__.py[line:120] - INFO: Execute the stored procedure !
+2018-08-21 00:23:41,527 - __init__.py[line:120] - INFO: Execute the stored procedure !
+2018-08-21 00:28:36,631 - __init__.py[line:283] - INFO: Successful insertion 1 data

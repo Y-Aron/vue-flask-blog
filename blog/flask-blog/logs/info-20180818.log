@@ -1,0 +1,69 @@
+2018-08-18 20:05:50,558 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-18 20:50:49,285 - __init__.py[line:13] - ERROR: 'dict_values' object has no attribute 'translate'
+2018-08-18 20:50:49,286 - __init__.py[line:43] - INFO: Successful insertion 0 data
+2018-08-18 20:51:37,127 - __init__.py[line:13] - ERROR: 'dict_values' object has no attribute 'translate'
+2018-08-18 20:52:04,656 - __init__.py[line:13] - ERROR: 'dict_values' object has no attribute 'translate'
+2018-08-18 20:52:21,117 - __init__.py[line:13] - ERROR: 'dict_values' object has no attribute 'translate'
+2018-08-18 20:53:10,611 - __init__.py[line:13] - ERROR: 'dict_values' object has no attribute 'translate'
+2018-08-18 20:53:34,031 - __init__.py[line:13] - ERROR: 'dict_values' object has no attribute 'translate'
+2018-08-18 20:56:00,186 - __init__.py[line:13] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-18 20:56:39,038 - __init__.py[line:13] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-18 20:56:57,299 - __init__.py[line:13] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-18 20:57:23,056 - __init__.py[line:13] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-18 20:58:29,976 - __init__.py[line:13] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-18 21:00:32,131 - __init__.py[line:44] - INFO: Successful insertion 1 data
+2018-08-18 21:00:46,911 - __init__.py[line:13] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-18 21:01:07,025 - __init__.py[line:44] - INFO: Successful insertion 1 data
+2018-08-18 21:01:42,334 - __init__.py[line:43] - INFO: Successful insertion 1 data
+2018-08-18 21:01:50,093 - __init__.py[line:13] - ERROR: 'dict_values' object has no attribute 'translate'
+2018-08-18 21:02:03,177 - __init__.py[line:43] - INFO: Successful insertion 1 data
+2018-08-18 21:02:18,022 - __init__.py[line:43] - INFO: Successful insertion 1 data
+2018-08-18 21:13:11,636 - __init__.py[line:13] - ERROR: (1054, "Unknown column 'None.name' in 'field list'")
+2018-08-18 21:13:21,906 - __init__.py[line:13] - ERROR: (1054, "Unknown column 'None.name' in 'field list'")
+2018-08-18 21:15:09,067 - __init__.py[line:57] - INFO: Successful insertion 1 data
+2018-08-18 21:17:13,391 - __init__.py[line:57] - INFO: Successful insertion 1 data
+2018-08-18 21:19:41,238 - __init__.py[line:59] - INFO: Successful insertion 1 data
+2018-08-18 21:23:21,575 - __init__.py[line:64] - INFO: Successful insertion 1 data
+2018-08-18 21:33:40,923 - __init__.py[line:43] - INFO: Data updated successfully 1
+2018-08-18 21:33:54,036 - __init__.py[line:43] - INFO: Data updated successfully 0
+2018-08-18 21:34:03,471 - __init__.py[line:43] - INFO: Data updated successfully 1
+2018-08-18 21:42:45,729 - __init__.py[line:87] - INFO: Successful insertion 1 data
+2018-08-18 21:43:23,248 - __init__.py[line:87] - INFO: Successful insertion 1 data
+2018-08-18 21:43:23,276 - __init__.py[line:50] - INFO: Data updated successfully 0
+2018-08-18 21:43:31,381 - __init__.py[line:87] - INFO: Successful insertion 1 data
+2018-08-18 21:43:31,399 - __init__.py[line:50] - INFO: Data updated successfully 1
+2018-08-18 22:49:56,945 - __init__.py[line:55] - INFO: Deleted successfully 2 data
+2018-08-18 22:50:20,007 - __init__.py[line:55] - INFO: Deleted successfully 0 data
+2018-08-18 22:50:42,346 - __init__.py[line:56] - INFO: Deleted successfully 0 data
+2018-08-18 22:51:22,931 - __init__.py[line:56] - INFO: Deleted successfully 1 data
+2018-08-18 22:51:46,954 - __init__.py[line:55] - INFO: Deleted successfully 0 data
+2018-08-18 22:51:55,798 - __init__.py[line:55] - INFO: Deleted successfully 1 data
+2018-08-18 22:52:11,130 - __init__.py[line:55] - INFO: Deleted successfully 2 data
+2018-08-18 22:53:12,580 - __init__.py[line:139] - INFO: Successful insertion 1 data
+2018-08-18 22:54:31,480 - __init__.py[line:141] - INFO: Successful insertion 1 data
+2018-08-18 23:09:03,688 - __init__.py[line:13] - ERROR: not all arguments converted during string formatting
+2018-08-18 23:09:23,126 - __init__.py[line:13] - ERROR: not all arguments converted during string formatting
+2018-08-18 23:25:44,138 - __init__.py[line:166] - INFO: Successful insertion 1 data
+2018-08-18 23:25:58,366 - __init__.py[line:13] - ERROR: not all arguments converted during string formatting
+2018-08-18 23:27:52,376 - __init__.py[line:164] - INFO: Successful insertion 4 data
+2018-08-18 23:27:59,380 - __init__.py[line:164] - INFO: Successful insertion 1 data
+2018-08-18 23:30:37,167 - __init__.py[line:173] - INFO: Successful insertion 1 data
+2018-08-18 23:30:44,197 - __init__.py[line:173] - INFO: Successful insertion 4 data
+2018-08-18 23:31:12,965 - __init__.py[line:156] - INFO: Successful insertion 4 data
+2018-08-18 23:31:35,230 - __init__.py[line:78] - INFO: Data updated successfully 1
+2018-08-18 23:47:06,813 - __init__.py[line:163] - INFO: Successful insertion 4 data
+2018-08-18 23:47:10,817 - __init__.py[line:163] - INFO: Successful insertion 1 data
+2018-08-18 23:47:23,554 - __init__.py[line:86] - INFO: Data updated successfully 0
+2018-08-18 23:47:37,238 - __init__.py[line:86] - INFO: Data updated successfully 2
+2018-08-18 23:49:04,667 - __init__.py[line:38] - INFO: Deleted successfully 0 data
+2018-08-18 23:49:17,285 - __init__.py[line:38] - INFO: Deleted successfully 0 data
+2018-08-18 23:54:13,818 - __init__.py[line:36] - INFO: Deleted successfully 3 data
+2018-08-18 23:54:30,245 - __init__.py[line:36] - INFO: Deleted successfully 1 data
+2018-08-18 23:54:59,185 - __init__.py[line:83] - INFO: Data updated successfully 3
+2018-08-18 23:55:10,435 - __init__.py[line:83] - INFO: Data updated successfully 1
+2018-08-18 23:55:21,832 - __init__.py[line:83] - INFO: Data updated successfully 0
+2018-08-18 23:56:21,341 - __init__.py[line:83] - INFO: Data updated successfully 3
+2018-08-18 23:56:33,898 - __init__.py[line:83] - INFO: Data updated successfully 1
+2018-08-18 23:56:38,331 - __init__.py[line:83] - INFO: Data updated successfully 0
+2018-08-18 23:58:09,495 - __init__.py[line:13] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2018-08-18 23:58:09,495 - __init__.py[line:36] - INFO: Deleted successfully 0 data

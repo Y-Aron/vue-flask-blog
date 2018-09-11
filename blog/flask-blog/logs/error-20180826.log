@@ -1,0 +1,38 @@
+2018-08-26 12:22:09,160 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user.avatar' in 'field list'")
+2018-08-26 12:23:00,549 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user.avatar' in 'field list'")
+2018-08-26 12:30:01,925 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user_info.nickname' in 'field list'")
+2018-08-26 12:31:33,292 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user_info.nickname' in 'field list'")
+2018-08-26 12:32:53,532 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user_info.nickname' in 'field list'")
+2018-08-26 12:34:59,826 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user_info.nickname' in 'field list'")
+2018-08-26 12:35:39,267 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user_info.nickname' in 'field list'")
+2018-08-26 12:35:45,150 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user_info.nickname' in 'field list'")
+2018-08-26 12:37:05,848 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user_info.nickname' in 'field list'")
+2018-08-26 12:38:53,107 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user_info.nickname' in 'field list'")
+2018-08-26 12:40:21,606 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user_info.nickname' in 'field list'")
+2018-08-26 12:44:35,353 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user.id' in 'where clause'")
+2018-08-26 12:44:35,708 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user.id' in 'where clause'")
+2018-08-26 12:44:55,920 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user.id' in 'where clause'")
+2018-08-26 12:46:41,956 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'tb_user_info.nickname' in 'field list'")
+2018-08-26 12:54:16,656 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'a.username' in 'field list'")
+2018-08-26 12:54:22,056 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'a.username' in 'field list'")
+2018-08-26 12:54:24,596 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'a.username' in 'field list'")
+2018-08-26 12:54:48,009 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'a.username' in 'field list'")
+2018-08-26 12:55:20,644 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'a.username' in 'field list'")
+2018-08-26 12:55:27,579 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'a.username' in 'field list'")
+2018-08-26 12:57:45,421 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-26 12:58:04,526 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'a.username' in 'field list'")
+2018-08-26 12:58:07,829 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'a.username' in 'field list'")
+2018-08-26 12:58:11,158 - mysql.py[line:14] - ERROR: (1054, "Unknown column 'a.username' in 'field list'")
+2018-08-26 12:59:26,850 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-26 12:59:54,274 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-26 13:00:25,798 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-26 13:01:00,781 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-26 13:01:37,984 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-26 13:04:18,251 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-26 13:04:27,892 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-26 13:06:11,481 - mysql.py[line:14] - ERROR: (1366, "Incorrect integer value: '' for column 'sex' at row 1")
+2018-08-26 13:06:15,405 - mysql.py[line:14] - ERROR: (1366, "Incorrect integer value: '' for column 'sex' at row 1")
+2018-08-26 13:07:10,646 - mysql.py[line:14] - ERROR: (1366, "Incorrect integer value: '' for column 'sex' at row 1")
+2018-08-26 13:47:38,424 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-26 23:21:57,235 - mysql.py[line:14] - ERROR: not enough arguments for format string
+2018-08-26 23:22:16,263 - mysql.py[line:14] - ERROR: not enough arguments for format string

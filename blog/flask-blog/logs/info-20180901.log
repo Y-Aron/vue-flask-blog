@@ -1,0 +1,41 @@
+2018-09-01 18:56:58,781 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-01 18:59:57,214 - mysql.py[line:311] - INFO: Successful insertion 1 data
+2018-09-01 19:00:13,890 - mysql.py[line:149] - INFO: Execute the stored procedure !
+2018-09-01 19:01:12,596 - mysql.py[line:149] - INFO: Execute the stored procedure !
+2018-09-01 19:02:55,002 - mysql.py[line:149] - INFO: Execute the stored procedure !
+2018-09-01 19:04:02,385 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-01 19:04:02,514 - mysql.py[line:149] - INFO: Execute the stored procedure !
+2018-09-01 19:04:33,139 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-01 19:04:34,774 - mysql.py[line:149] - INFO: Execute the stored procedure !
+2018-09-01 19:05:03,166 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-01 19:05:04,672 - mysql.py[line:149] - INFO: Execute the stored procedure !
+2018-09-01 19:15:40,277 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-01 19:15:56,879 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-01 19:16:21,656 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-01 22:22:45,993 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-01 22:23:12,911 - mysql.py[line:311] - INFO: Successful insertion 1 data
+2018-09-01 22:23:46,946 - mysql.py[line:311] - INFO: Successful insertion 1 data
+2018-09-01 22:24:22,555 - mysql.py[line:311] - INFO: Successful insertion 1 data
+2018-09-01 22:47:03,280 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-01 22:47:20,348 - mysql.py[line:228] - INFO: Data updated successfully 1
+2018-09-01 22:47:20,372 - mysql.py[line:311] - INFO: Successful insertion 7 data
+2018-09-01 22:48:00,221 - mysql.py[line:311] - INFO: Successful insertion 1 data
+2018-09-01 22:48:07,052 - mysql.py[line:149] - INFO: Execute the stored procedure !
+2018-09-01 22:48:07,067 - mysql.py[line:173] - INFO: Deleted successfully 1 data
+2018-09-01 22:48:07,073 - mysql.py[line:228] - INFO: Data updated successfully 0
+2018-09-01 22:48:27,972 - mysql.py[line:149] - INFO: Execute the stored procedure !
+2018-09-01 22:48:27,985 - mysql.py[line:149] - INFO: Execute the stored procedure !
+2018-09-01 22:50:19,569 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-01 22:50:41,350 - mysql.py[line:149] - INFO: Execute the stored procedure !
+2018-09-01 22:50:41,373 - mysql.py[line:149] - INFO: Execute the stored procedure !
+2018-09-01 22:51:08,176 - mysql.py[line:149] - INFO: Execute the stored procedure !
+2018-09-01 22:51:08,195 - mysql.py[line:149] - INFO: Execute the stored procedure !
+2018-09-01 22:51:23,563 - mysql.py[line:149] - INFO: Execute the stored procedure !
+2018-09-01 22:51:23,573 - mysql.py[line:149] - INFO: Execute the stored procedure !
+2018-09-01 22:51:33,770 - mysql.py[line:149] - INFO: Execute the stored procedure !
+2018-09-01 22:51:33,780 - mysql.py[line:149] - INFO: Execute the stored procedure !
+2018-09-01 22:54:25,526 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-01 22:54:59,736 - mysql.py[line:149] - INFO: Execute the stored procedure !
+2018-09-01 22:54:59,748 - mysql.py[line:149] - INFO: Execute the stored procedure !
+2018-09-01 22:55:17,521 - mysql.py[line:149] - INFO: Execute the stored procedure !
+2018-09-01 22:55:17,532 - mysql.py[line:149] - INFO: Execute the stored procedure !

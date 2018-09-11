@@ -1,0 +1,272 @@
+2018-08-22 00:15:47,963 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 00:16:58,042 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 01:15:48,131 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 01:15:56,728 - mysql.py[line:14] - ERROR: (1364, "Field 'create_time' doesn't have a default value")
+2018-08-22 01:15:59,537 - mysql.py[line:14] - ERROR: (1364, "Field 'create_time' doesn't have a default value")
+2018-08-22 01:16:23,987 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 01:16:24,616 - mysql.py[line:14] - ERROR: (1364, "Field 'create_time' doesn't have a default value")
+2018-08-22 01:17:16,502 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 01:17:17,166 - mysql.py[line:14] - ERROR: (1364, "Field 'create_time' doesn't have a default value")
+2018-08-22 01:17:39,113 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 01:17:39,868 - mysql.py[line:14] - ERROR: (1364, "Field 'create_time' doesn't have a default value")
+2018-08-22 01:18:06,039 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 01:18:06,884 - mysql.py[line:14] - ERROR: (1364, "Field 'create_time' doesn't have a default value")
+2018-08-22 01:24:53,779 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 01:28:02,388 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 01:28:16,876 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 01:29:18,704 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 01:30:40,135 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 01:30:57,851 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 01:31:09,991 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 01:31:28,505 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 01:32:47,452 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 01:38:31,031 - mysql.py[line:14] - ERROR: not all arguments converted during string formatting
+2018-08-22 01:47:32,223 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 01:47:44,934 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 01:55:54,006 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 01:56:04,365 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 01:56:30,135 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 01:56:57,323 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 02:11:39,892 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 03:19:50,878 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 03:20:14,376 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 03:20:28,920 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 03:21:42,709 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 03:22:06,074 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 03:22:33,310 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 03:22:46,395 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 03:23:46,854 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 03:24:19,212 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 03:24:45,672 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 03:25:18,618 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 03:25:35,535 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 03:26:52,839 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 03:27:14,690 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 03:27:35,708 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 03:27:47,955 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 03:28:07,974 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 03:30:55,941 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 03:31:46,382 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 03:31:55,047 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 03:33:33,989 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 03:34:02,426 - mysql.py[line:14] - ERROR: (1364, "Field 'create_time' doesn't have a default value")
+2018-08-22 03:34:30,571 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 03:34:32,400 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-22 03:36:30,235 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-22 03:36:32,644 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-22 03:36:34,336 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-22 03:40:18,907 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 03:48:38,667 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 04:31:03,290 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 04:33:58,504 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 04:36:46,319 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 04:51:45,693 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 04:52:10,657 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 05:13:22,893 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 05:14:59,185 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 05:15:07,203 - mysql.py[line:133] - INFO: Deleted successfully 1 data
+2018-08-22 06:04:35,601 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 06:04:50,366 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 06:09:19,064 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 06:09:23,659 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 06:11:17,521 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 06:12:15,223 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 06:12:41,318 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 06:14:44,753 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 06:36:32,439 - mysql.py[line:133] - INFO: Deleted successfully 1 data
+2018-08-22 06:36:41,296 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 06:36:53,314 - mysql.py[line:133] - INFO: Deleted successfully 1 data
+2018-08-22 06:37:31,743 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 06:54:27,775 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 06:56:17,426 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 06:57:35,278 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 06:57:53,326 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 06:58:00,735 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 06:58:29,707 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 06:58:32,014 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0','10'' at line 1")
+2018-08-22 06:59:35,468 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 06:59:37,939 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0','10'' at line 1")
+2018-08-22 07:00:41,801 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0','10'' at line 1")
+2018-08-22 07:01:13,586 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 07:05:16,672 - mysql.py[line:133] - INFO: Deleted successfully 2 data
+2018-08-22 07:05:23,058 - mysql.py[line:133] - INFO: Deleted successfully 4 data
+2018-08-22 07:06:29,770 - mysql.py[line:133] - INFO: Deleted successfully 2 data
+2018-08-22 07:09:18,874 - mysql.py[line:133] - INFO: Deleted successfully 2 data
+2018-08-22 07:10:22,747 - mysql.py[line:133] - INFO: Deleted successfully 2 data
+2018-08-22 07:12:11,663 - mysql.py[line:133] - INFO: Deleted successfully 2 data
+2018-08-22 07:13:01,721 - mysql.py[line:133] - INFO: Deleted successfully 2 data
+2018-08-22 07:13:42,201 - mysql.py[line:133] - INFO: Deleted successfully 2 data
+2018-08-22 07:16:45,832 - mysql.py[line:133] - INFO: Deleted successfully 2 data
+2018-08-22 07:17:01,754 - mysql.py[line:133] - INFO: Deleted successfully 2 data
+2018-08-22 07:18:08,605 - mysql.py[line:133] - INFO: Deleted successfully 2 data
+2018-08-22 07:37:41,740 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 07:37:48,980 - mysql.py[line:133] - INFO: Deleted successfully 1 data
+2018-08-22 07:37:52,114 - mysql.py[line:133] - INFO: Deleted successfully 1 data
+2018-08-22 07:45:27,829 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 07:48:34,477 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 07:49:09,602 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 07:49:29,387 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 08:14:51,840 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 08:15:20,350 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 08:16:08,053 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 08:16:29,191 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 08:56:08,811 - mysql.py[line:189] - INFO: Data updated successfully 1
+2018-08-22 08:57:13,770 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 08:57:14,283 - mysql.py[line:189] - INFO: Data updated successfully 0
+2018-08-22 08:57:22,853 - mysql.py[line:189] - INFO: Data updated successfully 0
+2018-08-22 08:57:24,890 - mysql.py[line:189] - INFO: Data updated successfully 0
+2018-08-22 08:57:25,982 - mysql.py[line:189] - INFO: Data updated successfully 0
+2018-08-22 08:57:26,559 - mysql.py[line:189] - INFO: Data updated successfully 0
+2018-08-22 08:57:26,730 - mysql.py[line:189] - INFO: Data updated successfully 0
+2018-08-22 08:57:34,948 - mysql.py[line:189] - INFO: Data updated successfully 1
+2018-08-22 08:57:36,150 - mysql.py[line:189] - INFO: Data updated successfully 0
+2018-08-22 08:57:37,839 - mysql.py[line:189] - INFO: Data updated successfully 0
+2018-08-22 08:57:38,869 - mysql.py[line:189] - INFO: Data updated successfully 0
+2018-08-22 09:02:29,017 - mysql.py[line:189] - INFO: Data updated successfully 0
+2018-08-22 09:02:33,083 - mysql.py[line:189] - INFO: Data updated successfully 1
+2018-08-22 09:02:35,556 - mysql.py[line:189] - INFO: Data updated successfully 1
+2018-08-22 09:02:37,872 - mysql.py[line:189] - INFO: Data updated successfully 0
+2018-08-22 09:04:20,286 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 09:05:07,391 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 09:05:09,211 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-22 09:08:43,195 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 09:20:08,933 - mysql.py[line:133] - INFO: Deleted successfully 1 data
+2018-08-22 09:20:31,938 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-22 09:20:31,939 - mysql.py[line:14] - ERROR: (1062, "Duplicate entry 'Õ‚≤ø¡¥Ω”\t' for key 'name_unique_key'")
+2018-08-22 09:20:51,834 - mysql.py[line:189] - INFO: Data updated successfully 1
+2018-08-22 09:30:35,898 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 09:31:25,914 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 09:33:04,918 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 09:33:35,013 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 09:35:59,635 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 09:39:28,801 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 09:40:45,605 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 09:41:07,485 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 09:48:35,313 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 09:49:39,383 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 10:19:53,203 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 10:24:40,420 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 10:31:23,346 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 10:32:36,651 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 10:36:17,888 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 10:36:58,762 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 10:37:30,303 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 10:37:52,001 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 10:39:14,033 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 10:40:09,207 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NULL,NULL' at line 1")
+2018-08-22 10:40:58,070 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NULL,NULL' at line 1")
+2018-08-22 10:41:03,254 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 10:41:39,892 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 10:42:09,541 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 10:43:11,291 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 10:43:39,301 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 10:44:09,636 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 10:44:50,976 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 11:35:16,398 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 11:38:04,041 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 11:38:25,972 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 11:38:39,513 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 11:38:51,157 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 11:39:11,397 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 11:39:32,428 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 11:42:08,058 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 11:42:45,843 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 11:42:47,745 - mysql.py[line:14] - ERROR: (1318, 'Incorrect number of arguments for PROCEDURE learn.edit_arctype; expected 12, got 11')
+2018-08-22 11:43:34,701 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 11:44:07,482 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 11:44:19,146 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 11:44:56,521 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 11:44:57,078 - mysql.py[line:14] - ERROR: (1318, 'Incorrect number of arguments for PROCEDURE learn.edit_arctype; expected 12, got 11')
+2018-08-22 11:46:27,872 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 11:46:29,016 - mysql.py[line:14] - ERROR: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`learn`.`tb_arctype`, CONSTRAINT `FK_arctype_arctypeMod` FOREIGN KEY (`mid`) REFERENCES `tb_arctype_mod` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)')
+2018-08-22 11:48:28,848 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 11:48:29,850 - mysql.py[line:14] - ERROR: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`learn`.`tb_arctype`, CONSTRAINT `FK_arctype_arctypeMod` FOREIGN KEY (`mid`) REFERENCES `tb_arctype_mod` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)')
+2018-08-22 12:02:10,286 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 12:02:16,574 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 12:02:17,267 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-22 12:04:41,689 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 12:05:29,868 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 12:05:49,733 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 12:12:43,698 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-22 21:10:23,447 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 21:11:11,428 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 21:11:45,393 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 21:12:23,658 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 21:18:00,526 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 21:18:17,003 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 21:18:37,495 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 21:19:12,440 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-22 21:20:18,469 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-22 21:21:19,849 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-22 21:21:47,296 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 21:28:12,827 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 21:30:17,218 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 21:30:47,110 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 21:30:53,044 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 21:30:55,265 - mysql.py[line:133] - INFO: Deleted successfully 1 data
+2018-08-22 21:34:50,717 - mysql.py[line:133] - INFO: Deleted successfully 1 data
+2018-08-22 21:38:40,064 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 21:39:27,251 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-22 21:39:34,970 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-22 22:03:27,720 - mysql.py[line:133] - INFO: Deleted successfully 1 data
+2018-08-22 22:03:27,741 - mysql.py[line:189] - INFO: Data updated successfully 0
+2018-08-22 22:05:06,293 - mysql.py[line:189] - INFO: Data updated successfully 0
+2018-08-22 22:05:30,032 - mysql.py[line:189] - INFO: Data updated successfully 1
+2018-08-22 22:05:54,955 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-08-22 22:40:11,761 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-22 22:40:20,176 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-22 22:40:30,910 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-22 22:40:45,696 - mysql.py[line:133] - INFO: Deleted successfully 1 data
+2018-08-22 22:40:45,710 - mysql.py[line:189] - INFO: Data updated successfully 1
+2018-08-22 22:41:07,467 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-22 22:43:01,460 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-22 22:44:33,771 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-22 22:44:45,112 - mysql.py[line:133] - INFO: Deleted successfully 1 data
+2018-08-22 22:44:45,127 - mysql.py[line:189] - INFO: Data updated successfully 0
+2018-08-22 22:46:57,910 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-22 22:52:18,123 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-22 22:53:38,948 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-22 22:58:10,645 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-22 23:00:04,817 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-22 23:13:54,568 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-22 23:34:20,242 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-22 23:36:04,999 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-22 23:37:08,572 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-22 23:38:13,042 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-22 23:47:27,431 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-22 23:48:23,574 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-22 23:52:14,213 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-22 23:53:38,403 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-22 23:54:41,843 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-22 23:57:08,581 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-22 23:58:23,892 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 00:03:56,824 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 00:06:11,853 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 00:06:31,429 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 00:07:15,709 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 00:09:02,759 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 00:13:11,685 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 00:13:56,709 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 00:16:57,905 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 00:18:01,964 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 00:19:28,426 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 00:24:07,644 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 00:26:09,970 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 00:26:23,967 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 00:27:47,816 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 00:28:49,700 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 00:29:28,499 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 00:31:05,601 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 00:31:23,234 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 00:33:41,645 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 00:33:53,598 - mysql.py[line:272] - INFO: Successful insertion 1 data
+2018-08-23 00:34:06,198 - mysql.py[line:133] - INFO: Deleted successfully 3 data
+2018-08-23 00:34:12,302 - mysql.py[line:133] - INFO: Deleted successfully 8 data
+2018-08-23 00:34:19,783 - mysql.py[line:133] - INFO: Deleted successfully 8 data
+2018-08-23 00:34:26,488 - mysql.py[line:133] - INFO: Deleted successfully 8 data
+2018-08-23 00:34:33,637 - mysql.py[line:133] - INFO: Deleted successfully 8 data
+2018-08-23 00:38:01,419 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-23 00:38:10,339 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-23 00:38:36,053 - mysql.py[line:109] - INFO: Execute the stored procedure !
+2018-08-23 00:40:19,448 - mysql.py[line:133] - INFO: Deleted successfully 1 data
+2018-08-23 00:40:19,461 - mysql.py[line:189] - INFO: Data updated successfully 2

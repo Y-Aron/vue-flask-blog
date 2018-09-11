@@ -1,0 +1,22 @@
+2018-09-04 18:39:45,284 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-04 21:08:12,702 - mysql.py[line:311] - INFO: Successful insertion 1 data
+2018-09-04 21:10:59,166 - mysql.py[line:311] - INFO: Successful insertion 1 data
+2018-09-04 21:12:46,354 - mysql.py[line:311] - INFO: Successful insertion 1 data
+2018-09-04 21:16:08,322 - mysql.py[line:311] - INFO: Successful insertion 1 data
+2018-09-04 21:18:22,887 - mysql.py[line:311] - INFO: Successful insertion 1 data
+2018-09-04 21:20:37,819 - mysql.py[line:311] - INFO: Successful insertion 1 data
+2018-09-04 21:23:59,810 - mysql.py[line:311] - INFO: Successful insertion 1 data
+2018-09-04 21:24:18,292 - mysql.py[line:311] - INFO: Successful insertion 1 data
+2018-09-04 21:30:41,235 - mysql.py[line:311] - INFO: Successful insertion 1 data
+2018-09-04 21:49:07,263 - mysql.py[line:311] - INFO: Successful insertion 1 data
+2018-09-04 22:08:04,938 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-04 22:08:08,798 - mysql.py[line:15] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table} set `views`=`views`+1 WHERE `id`=74' at line 1")
+2018-09-04 22:08:17,560 - mysql.py[line:15] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table} set `views`=`views`+1 WHERE `id`=74' at line 1")
+2018-09-04 22:08:45,440 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-04 22:13:09,912 - mysql.py[line:311] - INFO: Successful insertion 1 data
+2018-09-04 22:14:28,232 - mysql.py[line:149] - INFO: Execute the stored procedure !
+2018-09-04 22:14:41,216 - mysql.py[line:149] - INFO: Execute the stored procedure !
+2018-09-04 22:14:41,239 - mysql.py[line:311] - INFO: Successful insertion 1 data
+2018-09-04 22:26:54,212 - run.py[line:10] - INFO: server is started at http://127.0.0.1:8888
+2018-09-05 00:44:06,486 - mysql.py[line:311] - INFO: Successful insertion 1 data
+2018-09-05 01:35:25,829 - mysql.py[line:311] - INFO: Successful insertion 1 data

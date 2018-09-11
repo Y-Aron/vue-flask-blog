@@ -1,0 +1,9 @@
+2018-08-25 09:35:29,078 - mysql.py[line:14] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NULL,NULL' at line 1")
+2018-08-25 09:48:20,471 - mysql.py[line:14] - ERROR: 'tuple' object has no attribute 'extend'
+2018-08-25 09:48:57,951 - mysql.py[line:14] - ERROR: 'tuple' object has no attribute 'extend'
+2018-08-25 09:49:23,514 - mysql.py[line:14] - ERROR: 'tuple' object has no attribute 'extend'
+2018-08-25 09:50:12,285 - mysql.py[line:14] - ERROR: 'tuple' object has no attribute 'extend'
+2018-08-25 09:50:39,203 - mysql.py[line:14] - ERROR: 'tuple' object has no attribute 'extend'
+2018-08-25 09:50:59,329 - mysql.py[line:14] - ERROR: 'tuple' object has no attribute 'extend'
+2018-08-25 09:51:49,995 - mysql.py[line:14] - ERROR: 'tuple' object has no attribute 'extend'
+2018-08-25 09:52:21,001 - mysql.py[line:14] - ERROR: 'tuple' object has no attribute 'extend'
